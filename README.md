@@ -1,4 +1,4 @@
-##test327sub-shares
+#test327sub-shares
 #Asthetic mini ship
 minecraft java 1.19.2 world
 #runtest
